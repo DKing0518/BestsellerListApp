@@ -20,7 +20,10 @@ The following **optional** features are implemented:
 
 Here's a walkthrough of implemented features:
 
-<img src="(https://i.imgur.com/LUc1XGk.mp4)" title="NY Times Walkthrough" width="" alt="NY Times Video Walkthrough" />
+<video width="640" height="360" controls>
+  <source src="https://i.imgur.com/LUc1XGk.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
 
 
 GIF created with ...  
