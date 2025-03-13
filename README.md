@@ -20,7 +20,7 @@ The following **optional** features are implemented:
 
 Here's a walkthrough of implemented features:
 
-<img src='https://i.imgur.com/LUc1XGk.mp4' title='NY Times Walkthrough' width='' alt='NY Times Video Walkthrough' />
+<img src="https://i.imgur.com/LUc1XGk.mp4" title="NY Times Walkthrough" width="" alt="NY Times Video Walkthrough" />
 
 
 GIF created with ...  
