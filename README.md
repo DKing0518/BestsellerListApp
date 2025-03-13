@@ -20,11 +20,7 @@ The following **optional** features are implemented:
 
 Here's a walkthrough of implemented features:
 
-<video width="640" height="360" controls>
-  <source src="https://i.imgur.com/LUc1XGk.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
-
+<img src="https://i.imgur.com/LUc1XGk.gif" title="Video Walkthrough" width="" alt="Video Walkthrough" />
 
 GIF created with ...  
 [Kap](https://getkap.co/) for macOS
